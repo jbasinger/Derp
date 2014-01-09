@@ -125,8 +125,8 @@ function setupGame(){
 			this._super(p, {
 				asset: "derp.png",
 				color: "red",
-				x:10,
-				y:10
+				x:50,
+				y:50
 			});
 			this.add("2d");
 			
